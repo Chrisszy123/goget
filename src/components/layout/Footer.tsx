@@ -107,6 +107,10 @@ export default function Footer() {
             </div>
 
             <p className="text-xs text-[#8A8A9A]">© 2026 GoGet. Built in Nigeria.</p>
+            <p className="text-xs text-[#8A8A9A] text-center md:text-right">
+              GoGet is a product of ZWYFT Enterprises<br />
+              RC Number: 8413182
+            </p>
           </div>
         </div>
       </div>
